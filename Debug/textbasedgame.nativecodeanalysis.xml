@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame</FILEPATH>
+      <FILENAME>textbasedgame.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'character::health' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>character::{ctor}</FUNCTION>
+    <DECORATED>??0character@@QAE@XZ</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame</FILEPATH>
+      <FILENAME>textbasedgame.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'character::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>character::{ctor}</FUNCTION>
+    <DECORATED>??0character@@QAE@XZ</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame</FILEPATH>
+      <FILENAME>textbasedgame.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'character::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>character::{ctor}</FUNCTION>
+    <DECORATED>??0character@@QAE@XZ</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame</FILEPATH>
+      <FILENAME>textbasedgame.cpp</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'mapItem::category' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>mapItem::{ctor}</FUNCTION>
+    <DECORATED>??0mapItem@@QAE@XZ</DECORATED>
+    <FUNCLINE>32</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame</FILEPATH>
+      <FILENAME>textbasedgame.cpp</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'mapItem::used' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>mapItem::{ctor}</FUNCTION>
+    <DECORATED>??0mapItem@@QAE@XZ</DECORATED>
+    <FUNCLINE>32</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame</FILEPATH>
+      <FILENAME>textbasedgame.cpp</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'mapItem::power' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>mapItem::{ctor}</FUNCTION>
+    <DECORATED>??0mapItem@@QAE@XZ</DECORATED>
+    <FUNCLINE>32</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

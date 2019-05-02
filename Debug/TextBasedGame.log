@@ -1,3 +1,8 @@
 ﻿  TextBasedGame.cpp
-d:\github\textbasedgame\textbasedgame.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  TextBasedGame.vcxproj -> D:\Github\TextBasedGame\Debug\TextBasedGame.exe
+c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame\textbasedgame.cpp(86): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame\textbasedgame.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame\textbasedgame.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame\textbasedgame.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame\textbasedgame.cpp(440): warning C4018: '<': signed/unsigned mismatch
+c:\users\edawg\desktop\school\dmacc\c++ project folder\textbasedgame\textbasedgame.cpp(467): warning C4018: '<': signed/unsigned mismatch
+  TextBasedGame.vcxproj -> C:\Users\edawg\Desktop\School\Dmacc\C++ Project Folder\TextBasedGame\Debug\TextBasedGame.exe
